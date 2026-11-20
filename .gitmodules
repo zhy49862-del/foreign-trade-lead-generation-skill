@@ -1,0 +1,3 @@
+[submodule "tools/google-maps-scraper"]
+	path = tools/google-maps-scraper
+	url = https://github.com/gosom/google-maps-scraper.git
